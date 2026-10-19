@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello PullRequest\n";
+    std::cout << "Hello NoPullRequest\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
